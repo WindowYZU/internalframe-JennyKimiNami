@@ -38,7 +38,7 @@ public class TestScaledImage {
         desktopPane.add(button1, JDesktopPane.DRAG_LAYER);
         
         JButton button2=new JButton("button2");
-        button2.setBounds(50, 0, 100, 50);
+        button2.setBounds(80, 0, 100, 50);
         desktopPane.add(button2, JDesktopPane.DEFAULT_LAYER);
         ///////////////////////////////////////////////////////
 
